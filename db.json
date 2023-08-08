@@ -39,6 +39,30 @@
       "image": "./assets/ramen/kojiro.jpg",
       "rating": 6,
       "comment": "Perfect for a cold night."
+    },
+    {
+      "name": "Joe",
+      "restaurant": "castle",
+      "image": "",
+      "rating": "3",
+      "comment": "OK",
+      "id": 6
+    },
+    {
+      "name": "Joe",
+      "restaurant": "castle",
+      "image": "https://media.istockphoto.com/id/1268467641/photo/small-portion-salad.jpg?s=612x612&w=0&k=20&c=9Aqf25o5eeW9qbL8Em40alPm6_KGf5-8Zat-aeEZZw4=",
+      "rating": "2",
+      "comment": "OK",
+      "id": 7
+    },
+    {
+      "name": "eman",
+      "restaurant": "chinese",
+      "image": "https://media.istockphoto.com/id/1268467641/photo/small-portion-salad.jpg?s=612x612&w=0&k=20&c=9Aqf25o5eeW9qbL8Em40alPm6_KGf5-8Zat-aeEZZw4=",
+      "rating": "10",
+      "comment": "Good",
+      "id": 8
     }
   ]
 }
